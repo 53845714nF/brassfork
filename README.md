@@ -18,7 +18,9 @@ Requirements and building
 Dependencies (tested with):
 
 * libpcap 1.5+
-* go 1.3+
+* go 1.22
+
+For Debian use this: `sudo apt install libpcap-dev`
 
 Recommended:
 
